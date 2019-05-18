@@ -57,18 +57,18 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <p>Quelle est ma passion où plutôt quelles sont mes passions?</p>
 
 <p>Et bien tout d'abord ma première passion est le football: 
-<img src="http://media.toucharger.com/web/toucharger/upload/image_domain/7/6/76429/76429.gif" />
+<img src="https://thumbs.gfycat.com/CircularEarnestAoudad-max-1mb.gif" alt="Cristiano Ronaldo/>
 </p>
 
-<p>Ma deuxième passion est:</p> 
+<p>Ma deuxième passion est: 
+<img src="https://media1.giphy.com/media/2wY27i2fESYsuig7qH/giphy.gif" alt="Kylian Mbappe" 
 
-[Image](https://medias.lequipe.fr/img-photo-jpg/les-supporters-du-real-souhaitent-voir-mbappe-rejoindre-leur-equipe-p-lahalle-l-equipe/1500000001120144/0:0,1998:1332-624-416-75/60b14.jpg)
-Oui encore du football!
+</p>
+<p>Oui encore du football!</p>
 
-<p>Et enfin ma troisième passion:</p> 
-
-[Image](https://cdn-media.rtl.fr/cache/TPT-DtdAW_LD7z8-PW2tAg/880v587-0/online/image/2018/1219/7795980624_15-juillet-l-equipe-de-france-de-football-remporte-la-coupe-du-monde-pour-la-2e-fois-de-son-histoire.jpg)
-
+<p>Et enfin ma troisième passion:
+<img src="http://media.toucharger.com/web/toucharger/upload/image_domain/7/6/76429/76429.gif" alt="Champion du monde 2018" />
+</p>
 <p>Et oui-oui tout à fait encore du football! Je suis une grande fan de football, une véritable passionnée, un sport que j'ai longtemps pratiqué intensivement en section sportive scolaire au lycée. J'adore regarder le football, analyser, et le pratiquer surtout. Ce n'est pas juste un passe-temps c'est vraiment un sport qui prends une place énorme dans ma vie au quotidien.</p> 
 
 <p>Elargissons ma présentation!</p>
