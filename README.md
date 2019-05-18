@@ -97,9 +97,9 @@ Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement
 <h3><li>La musique</li></h3>
 
 <p>
-  <img src="https://www.toulouse-tech-transfer.com/wp-content/uploads/2017/06/youtube-logo-1024x629.jpg" alt="youtube" />
+  <img src="https://www.billboard.com/files/styles/768x433/public/media/bad-bunny-cardi-b-j-balvin-2018-billboard-1500.jpg" />
 
-<p>Youtube est la plate-forme que j'utilise tout les jours pour écouter mes musiques préférées à chaque fois que l'occasion se présente, c'est à dire à peu près tout le temps. J'utilise principalement cette plate-forme car elle est de bonne qualité mais aussi et surtout parce-qu'elle gratuite (bien qu'elle le soit en l'échange de pub souvent peu supportable).<br /> 
+<p>Cardi B (au milieu) est une de mes chanteuses favorites, je ne vais pas vous nommer tout mes artistes préférés, la liste serzit beaucoup trop longue. Mais la musique est très importante dans ma vie elle agit comme un anti-stress sur moi.<br /> 
 La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me permet de m'évader du monde actuel pour entrer dans un autre univers. Elle me permet de rêver et de recréer ma vie avec toutes ces mélodies. La musique est aussi comparable à l'essence d'une voiture chez moi. Elle m'anime et me fait vivre, la musique est un campagnon, elle peut même m'encourager à faire des tâches que je repousse. Lorsque je m'entraîne en salle elle est aussi présente dans mes écouteurs. Cela me rends vivante.</p> 
 
 <p>Pour conclure nous allons aborder le point le plus important de ma présentation.</p>
