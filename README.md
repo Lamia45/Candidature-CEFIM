@@ -113,11 +113,11 @@ C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel
 
 <p>Quelle chance j'avais à ce moment. Il avait donc des contacts, et m'a présenter à une petite entreprise de la ville avec quelques développeurs qui m'a donc accepté comme stagiare. J'ai effectué un stage d'observation d'une semaine avec un développeur web qui ne m'avait pas du tout déplus loin de là.</p> 
 
-<p>Enfin j'ai choisis la formation de développeuse web pour en faire mon métier acquérir une solide expérience dans le métier, pour ensuite gravir les échelons.</p> 
-
-<p><em>"Notre vie est semblable à une équation dont nous seule pouvons trouver les solutions."</em></p>  
+<p>Enfin j'ai choisis la formation de développeuse web pour en faire mon métier acquérir une solide expérience dans le métier, pour ensuite gravir les échelons.</p>  
 
 <p>Pour conclure le but de ma présentation était de vous montrer mes centres intérêt mais aussi ma personne, car c'est en déterminant le profil d'une personne et sa manière de penser qu'on peut commencer a savoir ce dont à quoi elle va penser avant même qu'elle ne le pense. Je voulais vous montrer que le choix d'une formation de développeuse web n'était pas un choix prit au hasard, mais que j'éprouve une réelle curiosité et motivation envers le web et ce qui l'entoure. En espérant que cette "petite" présentation vous aura plu, je vous remercie d'avoir lu ma candidature avec attention et vous prie d'agréer mes sincères salutations.</p> 
  
+ <p><em>"Cela semble toujours impossible, jusqu'à ce qu'on le fasse."</em></p>
+ <p><mark>Nelson Mandela</mark></p>
 </body>
 </html>
