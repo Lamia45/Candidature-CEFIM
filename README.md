@@ -37,7 +37,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
   <ol>
   <li>Chargée de l'accueil et du service petit-déjeuner (hôtel IBIS)</li>
   <li>Chargée de l'accueil du service petit-déjeuner et du nettoyage (Auberge de Jeunesse)</li>
-  <li>Travail à la chaîne usine de cosmétique (L.T.E.)</li>
+  <li>Assemblage usine de cosmétique (L.T.E.)</li>
   <li>Chargée de conseils clients et de mises en rayons (T.A.T.I.)</li>
   </ol>
 </p>
