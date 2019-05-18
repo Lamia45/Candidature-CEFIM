@@ -99,8 +99,8 @@ Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement
 <p>
   <img src="https://www.billboard.com/files/styles/768x433/public/media/bad-bunny-cardi-b-j-balvin-2018-billboard-1500.jpg" />
 
-<p>Cardi B (au milieu) est une de mes chanteuses favorites, je ne vais pas vous nommer tout mes artistes préférés, la liste serzit beaucoup trop longue. Mais la musique est très importante dans ma vie elle agit comme un anti-stress sur moi.<br /> 
-La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me permet de m'évader du monde actuel pour entrer dans un autre univers. Elle me permet de rêver et de recréer ma vie avec toutes ces mélodies. La musique est aussi comparable à l'essence d'une voiture chez moi. Elle m'anime et me fait vivre, la musique est un campagnon, elle peut même m'encourager à faire des tâches que je repousse. Lorsque je m'entraîne en salle elle est aussi présente dans mes écouteurs. Cela me rends vivante.</p> 
+<p>Cardi B (au milieu) est une de mes chanteuses favorites, je ne vais pas vous nommer tout mes artistes préférés, la liste serait beaucoup trop longue. Mais la musique est très importante dans ma vie elle agit comme un anti-stress sur moi.<br /> 
+La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me permet de m'évader du monde actuel pour entrer dans un autre univers. Elle me permet de rêver et de recréer ma vie avec toutes ces mélodies. La musique est aussi comparable à l'essence d'une voiture chez moi.<br /> Elle m'anime et me fait vivre, elle m'accompagne partout, elle peut même m'encourager à faire des tâches que je repousse. Lorsque je m'entraîne en salle elle est aussi présente dans mes écouteurs. Même pendant des périodes de doutes elle peut avoir un effet positif sur mon humeur.</p> 
 
 <p>Pour conclure nous allons aborder le point le plus important de ma présentation.</p>
 
