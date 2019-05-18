@@ -56,7 +56,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 
 <p>Quelle est ma passion où plutôt quelles sont mes passions?</p>
 
-<p>Et bien tout d'abord ma première passion est le football: 
+<p>Tout d'abord ma première passion est: 
 <img src="https://media0.giphy.com/media/IFLEqB7gSxUY/giphy.gif" alt="Cristiano Ronaldo" />
 </p>
 
@@ -69,13 +69,13 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <p>Et enfin ma troisième passion:
 <img src="http://media.toucharger.com/web/toucharger/upload/image_domain/7/6/76429/76429.gif" alt="Champion du monde 2018" />
 </p>
-<p>Et oui-oui tout à fait encore du football! Je suis une grande fan de football, une véritable passionnée, un sport que j'ai longtemps pratiqué intensivement en section sportive scolaire au lycée. J'adore regarder le football, analyser, et le pratiquer surtout. Ce n'est pas juste un passe-temps c'est vraiment un sport qui prends une place énorme dans ma vie au quotidien.</p> 
+<p>Je vous résume ça dans l'ordre: Cristiano Ronaldo et Kylian Mbappé mes 2 joueurs de football préférés et ensuite l'équipe de France! Vous l'aurez compris je suis une grande fan de football, j'en suis éperduemment amoureuse telle une véritable passionnée, un sport que j'ai longtemps pratiqué intensivement en section sportive scolaire au lycée. J'adore regarder le football, analyser, et le pratiquer surtout. Ce n'est pas juste un simple sport pour se défouler c'est vraiment un sport qui prends une place énorme dans ma coeur et dans ma vie au quotidien.</p> 
 
-<p>Elargissons ma présentation!</p>
+<p>Elargissons ma présentation à présent!</p>
 
 <li><h2 id="centre">Mes centre d'intérêt</h2></li> 
 
-<p>Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous.</p> 
+<p>Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous, voici mes centres d'intérêts.</p> 
 
 <p>Parlons-en maintenant!</p>
 
