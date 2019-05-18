@@ -94,10 +94,10 @@ Malheureusement j'étais tellement aspirée par le football que je n'ai jamais p
 <p>Mon rêve d'enfant était de devenir une grande styliste reconnu, ce rêve s'était initié dans mon esprit naturellement.<br /> 
 Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine. J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait s'éveiller un jour qui sait.</p> 
 
-<h3><li>La musique</li></h3>
-</ol>
+<h3><li>La musique</li></h3></ol>
+
 <p>
-  <img src="https://img2.freepng.fr/20180404/pew/kisspng-youtube-play-button-computer-icons-clip-art-youtube-5ac595c5882749.5166607015228983735577.jpg" alt="youtube" />
+  <img src="https://www.toulouse-tech-transfer.com/wp-content/uploads/2017/06/youtube-logo-1024x629.jpg" alt="youtube" />
 
 <p>Youtube est la plate-forme que j'utilise tout les jours pour écouter mes musiques préférées à chaque fois que l'occasion se présente, c'est à dire à peu près tout le temps. J'utilise principalement cette plate-forme car elle est de bonne qualité mais aussi et surtout parce-qu'elle gratuite (bien qu'elle le soit en l'échange de pub souvent peu supportable).<br /> 
 La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me permet de m'évader du monde actuel pour entrer dans un autre univers. Elle me permet de rêver et de recréer ma vie avec toutes ces mélodies. La musique est aussi comparable à l'essence d'une voiture chez moi. Elle m'anime et me fait vivre, la musique est un campagnon, elle peut même m'encourager à faire des tâches que je repousse. Lorsque je m'entraîne en salle elle est aussi présente dans mes écouteurs. Cela me rends vivante.</p> 
