@@ -77,9 +77,6 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <li><h2 id="centre">Mes centres d'intérêts</h2></li> 
 
 <p>Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous, voici mes centres d'intérêts.</p> 
-
-<p>Parlons-en maintenant!</p>
-
 <ol>
   <h3><li>Le dessin</li></h3>
 <p>
