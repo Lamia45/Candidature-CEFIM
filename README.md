@@ -44,8 +44,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <p>Maintenant attaquons mes (petites) expériences professionnelles!</p> 
 
 <li><h2 id="experience">Mes expériences professionnelles</h2></li>
- <p>Vous le savez maintenant je ne vous l'ai pas caché, je ne possède pas de diplôme qui me permettent d'accéder à un emploi qualifié. Mes expériences professionnelle, sont tous des métiers où les diplômes ne sont pas ou peu utiles. 
-
+ <p><img src="https://www.unaniime.com/hs-fs/hubfs/giphy-2.gif?width=563&name=giphy-2.gif" alt="employé" />
 <p>Mes métiers:
   <ol>
   <li>Chargée de l'accueil et du service petit-déjeuner (hôtel IBIS)</li>
