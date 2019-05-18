@@ -83,14 +83,14 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
   <img src="http://espritbd.fr/wp-content/uploads/2018/01/bien.jpg" alt="dessin" />
 
 <p>J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques. Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème.<br />
-Malheureusement j'étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
+Malheureusement j'ai toujours étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
 
 <h3><li>La mode</li></h3> 
 <p>
   <img src="https://conseilnationalducuir.org/sites/default/files/styles/photo_credit_contenu/public/medias-cnc/guide_des_metiers/styliste.jpg?itok=L1P64tHU" alt="mode" />
 
 <p>Mon rêve d'enfant était de devenir une grande styliste reconnu, ce rêve s'était initié dans mon esprit naturellement.<br /> 
-Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine. J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait s'éveiller un jour qui sait.</p> 
+Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine.<br /> J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait devenir réel un jour qui sait.</p> 
 
 <h3><li>La musique</li></h3>
 
@@ -98,7 +98,7 @@ Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement
   <img src="https://www.billboard.com/files/styles/768x433/public/media/bad-bunny-cardi-b-j-balvin-2018-billboard-1500.jpg" />
 
 <p>Cardi B (au milieu) est une de mes chanteuses favorites, je ne vais pas vous nommer tout mes artistes préférés, la liste serait beaucoup trop longue. Mais la musique est très importante dans ma vie elle agit comme un anti-stress sur moi.<br /> 
-La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me permet de m'évader du monde actuel pour entrer dans un autre univers. Elle me permet de rêver et de recréer ma vie avec toutes ces mélodies. La musique est aussi comparable à l'essence d'une voiture chez moi.<br /> Elle m'anime et me fait vivre, elle m'accompagne partout, elle peut même m'encourager à faire des tâches que je repousse. Lorsque je m'entraîne en salle elle est aussi présente dans mes écouteurs. Même pendant des périodes de doutes elle peut avoir un effet positif sur mon humeur.</p> 
+Il ne n'agit pas d'une passion pour moi, mais tout comme le dessin, cela me permet de m'évader pour entrer dans un autre univers. La musique est aussi comparable à l'essence d'une voiture chez moi.<br /> Elle m'anime et me fait vivre, elle m'accompagne partout. Lorsque je m'entraîne seule en salle elle est présente dans mes écouteurs pour m'encourager et me dire de continuer. Même pendant des périodes de doutes elle peut avoir un effet positif sur mon humeur.</p> 
 
 <p>Pour conclure nous allons aborder le point le plus important de ma présentation.</p>
 
