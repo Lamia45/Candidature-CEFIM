@@ -6,8 +6,16 @@
  
  <body>
   <h1>Bienvenue sur ma page de présentation!</h1> 
+  <h2><strong>Menu principal:</strong></h2>
+   
+  <p><a href="#intro">Introduction</a><br />
+  <a href="#parcours">Mon parcours scolaire</a><br />
+  <a href="#experience">Mes expériences professionnelles</a><br />
+  <a href="#passion">Mes passions</a><br />
+  <a href="#centre">Mes centres d'intérêts</a><br />
+  <a href="#informatique">L'informatique</a></p>
 <ul>
-  <li><h2>Introduction</h2></li>
+  <li><h2 id="intro">Introduction</h2></li>
 <p>Bonjour! Moi c'est Lamia enchantée. <br />
 Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. Je suis tombée sur la formation CEFIM en recherchant activement une formation en tant que développeuse web sur Google tout simplement. Chose que je ne regrette absoluement pas!</p> 
 
@@ -20,7 +28,7 @@ C'est parti!</p>
 
 <p>Tiens, commençons par ce que je préfère le moins:</p> 
 
-<h2><li>Mon parcours scolaire</li></h2>
+<li><h2 id="parcours">Mon parcours scolaire</h2></li>
 
 <p>Moi et l'école? Une longue histoire d'amour forcée qui ne s'est pas finit dans la joie...<br /> 
 En effet, je n'ai jamais été une grande fan de "l'école".  Je n'approuve pas les méthodes de l'école tout simplement car pour moi elle anihile toute forme de créativité chez les enfants et l'adolescents. Nous sommes incités dès notre plus jeune âge à réfléchir sur notre futur métier, pour devenir de bon futurs employé. Ce qui pour moi n'est pas la destinée de tout élèves. C'est un sujet complexe sur lequel je m'élance et ne souhaite accuser personne car je suis convaincu que l'éducation nationale fait son maximum pour tout les élèves. Néanmoins je suis et je reste une protestante de ce système éducatif qui ma toujours empêché de réfléchir avec une vision à 360°. Cependant des réformes sur les programmes scolaires notamment au lycée se mettent doucement en place et j'en suis d'ailleurs très heureuse pour les futurs lycéens.<br /> 
@@ -30,7 +38,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 
 <p>Maintenant attaquons mes (petites) expériences professionnelles!</p> 
 
-<h2><li>Mes expériences professionnelles</li></h2>
+<li><h2 id="experience">Mes expériences professionnelles</h2></li>
  
 
 <p>Mes métiers:
@@ -44,7 +52,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 
 <p>Maintenant passons à ma partie préférée, enfin!</p>
 
-<h2><li>Mes passions</li></h2> 
+<li><h2 id="passion">Mes passions</h2></li> 
 
 <p>Quelle est ma passion où plutôt quelles sont mes passions?</p>
 
@@ -65,7 +73,7 @@ Oui encore du football!
 
 <p>Elargissons ma présentation!</p>
 
-<h2><li>Mes centre d'intérêt</li></h2> 
+<li><h2 id="centre">Mes centre d'intérêt</h2></li> 
 
 <p>Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous.</p> 
 
@@ -93,7 +101,7 @@ La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me
 
 <p>Pour conclure nous allons aborder le point le plus important de ma présentation.</p>
 
-<h2><li>L'informatique</li></h2>
+<li><h2 id="informatique">L'informatique</h2></li>
 </ul>
 <p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web?<br />
 Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
