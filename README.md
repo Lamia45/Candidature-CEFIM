@@ -80,14 +80,14 @@ Parlons-en maintenant!
 J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques. Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème.
 <p>Malheureusement j'étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
 
-<h3>2. La mode</h3> 
+<h3><li>La mode</li></h3> 
 [Image](https://conseilnationalducuir.org/sites/default/files/styles/photo_credit_contenu/public/medias-cnc/guide_des_metiers/styliste.jpg?itok=L1P64tHU)
 
 <p>Mon rêve d'enfant était de devenir une grande styliste reconnu, ce rêve s'était initié dans mon esprit naturellement.<br /> 
 Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine. J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait s'éveiller un jour qui sait.</p> 
 
-<h3>3. La musique</h3>
-
+<h3><li>La musique</li></h3>
+</ol>
 [Image](https://www.webrankinfo.com/dossiers/wp-content/uploads/youtube-logo-2017-743.png)
 
 <p>Youtube est la plate-forme que j'utilise tout les jours pour écouter mes musiques préférées à chaque fois que l'occasion se présente, c'est à dire à peu près tout le temps. J'utilise principalement cette plate-forme car elle est de bonne qualité mais aussi et surtout parce-qu'elle gratuite (bien qu'elle le soit en l'échange de pub souvent peu supportable).<br /> 
