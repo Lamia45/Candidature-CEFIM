@@ -73,7 +73,8 @@ Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y
 
 Parlons-en maintenant!
 
-<h3>1. Le dessin</h3>
+<ol>
+  <h3><li>Le dessin</li></h3>
 [Image](http://espritbd.fr/wp-content/uploads/2018/01/bien-900x450.jpg)
 
 J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques. Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème.
