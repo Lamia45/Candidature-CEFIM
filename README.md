@@ -113,7 +113,7 @@ J'adore les mathématiques. Pourquoi? Ce que j'ai toujours aimé dans les maths 
 Quand un professeur me donnait un problème à résoudre je devenais comme une souris face à un morceau de fromage. J'étais totalement obsédé par la résolution de ce problème, tant que je ne trouvais pas la solution. Je ne m'arrêtais pas de chercher.</p>
 <p>La curiosité de trouver la solution était tellement forte, que je n'avais même pas besoin de me forcer. 
 Et une fois le problème résolu, la satisfaction procurée par cette mini-victoire était unique.<br />
-J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la numéro 1 dans la matière, mes professeurs me faisait souvent part de petites éloges concernant ma logique dans cette matière. (Je vous préviens je ne suis pas Einstein loin de la!)</p>
+J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la numéro 1 dans la matière, mes professeurs me faisait souvent part de petites éloges concernant ma logique dans la matière. (Je vous préviens je ne suis pas Einstein loin de la!)</p>
 
 <p>Quand on creuse un peu plus, les mathématiques sont à la base du web. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités sur le web, c'est des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes.</p> 
 
