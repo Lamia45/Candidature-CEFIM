@@ -1,20 +1,22 @@
 ## Bienvenue sur ma page de présentation! 
 
-<p>Bonjour! Moi c'est Lamia enchantée. Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine.</p> Je suis tombée sur la formation CEFIM en recherchant activement une formation en tant que développeuse web sur Google tout simplement, chose que je ne regrette absoluement pas! 
-Et si je me présentais un peu plus en détail? 
+<p>Bonjour! Moi c'est Lamia enchantée. </p>
+<p>Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. Je suis tombée sur la formation CEFIM en recherchant activement une formation en tant que développeuse web sur Google tout simplement. Chose que je ne regrette absoluement pas!</p> 
+<p>Et si je me présentais un peu plus en détail?</p> 
 Dans cette présentation je ne vais pas seulement vous faire part de mes passions et de mon parcours comme un petit devoir d'écolier, je n'hésiterais pas à approfondir ma présentation pour qu'a travers mon texte vous ressentiez quel type de personne je suis, quelles sont mes opinions, quelle est ma vison de la vie mais aussi et surtout mes ambitions professionnelle. Attention, j'espère que vous aimez la lecture! 
 
-Alors, on y va? 
+Alors, on y va?
+
 C'est parti! 
 
 Tiens, commençons par ce que je préfère le moins: 
 
 ### Mon parcours scolaire
 
-Moi et l'école? Une longue histoire d'amour forcée qui ne s'est pas finit dans la joie... 
-En effet, je n'ai jamais été une grande fan de "l'école".  Je n'ai jamais approuvée les méthodes de l'école tout simplement car pour moi elle anihile toute forme de créativité chez les enfants et l'adolescents où ils sont formés dès leur plus jeune âge a se spécialiser sur un métier, pour fabriquer en masse des futurs employé. Ce qui pour moi n'est pas la destinée de tout élèves. C'est un sujet complexe sur lequel je m'élance et ne souhaite accuser personne car je suis convaincu que l'éducation nationale fait son maximum pour tout les élèves. Néanmoins je suis et je reste une protestante de ce système éducatif qui ma toujours empêché de réfléchir avec une vision à 360°. Cependant des réformes sur les programmes scolaires notamment au lycée se mettent doucement en place et j'en suis d'ailleurs très heureuse pour les futurs lycéens. 
-Donc pour clore ce sujet mon parcours scolaire n'a pas été un long tapis rouge, j'ai décrochée les études durant mon année de terminale dans la filière Sciences et Technologies du Management et de la Gestion (STMG), je n'ai donc ni passée ni obtenu mon baccalauréat. 
-Le seul diplôme en ma possession actuellement est mon brevet des collèges. 
+<p>Moi et l'école? Une longue histoire d'amour forcée qui ne s'est pas finit dans la joie...</p> 
+<p>En effet, je n'ai jamais été une grande fan de "l'école".  Je n'approuve pas les méthodes de l'école tout simplement car pour moi elle anihile toute forme de créativité chez les enfants et l'adolescents. Nous sommes incités dès notre plus jeune âge à réfléchir sur notre futur métier, pour devenir de bon futurs employé. Ce qui pour moi n'est pas la destinée de tout élèves. C'est un sujet complexe sur lequel je m'élance et ne souhaite accuser personne car je suis convaincu que l'éducation nationale fait son maximum pour tout les élèves. Néanmoins je suis et je reste une protestante de ce système éducatif qui ma toujours empêché de réfléchir avec une vision à 360°. Cependant des réformes sur les programmes scolaires notamment au lycée se mettent doucement en place et j'en suis d'ailleurs très heureuse pour les futurs lycéens.</p> 
+<p>Donc pour clore ce sujet sur mon parcours scolaire. J'ai décrochée les études durant mon année de terminale dans la filière Sciences et Technologies du Management et de la Gestion (STMG), je n'ai donc ni passée ni obtenu mon baccalauréat.</p> 
+<p>Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p> 
 
 
 Maintenant attaquons mes (petites) expériences professionnelles! 
@@ -64,19 +66,21 @@ Parlons-en maintenant!
 **1. Le dessin**
 [Image](http://espritbd.fr/wp-content/uploads/2018/01/bien-900x450.jpg)
 
-J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques. Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème. Malheureusement j'étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour... 
+J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques. Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème.
+<p>Malheureusement j'étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
 
 **2. La mode** 
 [Image](https://conseilnationalducuir.org/sites/default/files/styles/photo_credit_contenu/public/medias-cnc/guide_des_metiers/styliste.jpg?itok=L1P64tHU)
 
-Mon rêve d'enfant était de devenir une grande styliste reconnu, ce rêve s'était initié dans mon esprit naturellement. Mais aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine. J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait s'éveiller un jour qui sait. 
+Mon rêve d'enfant était de devenir une grande styliste reconnu, ce rêve s'était initié dans mon esprit naturellement. 
+<p>Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine. J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait s'éveiller un jour qui sait.</p> 
 
 **3. La musique**
 
 [Image](https://www.webrankinfo.com/dossiers/wp-content/uploads/youtube-logo-2017-743.png)
 
-Youtube est la plate-forme que j'utilise tout les jours pour écouter mes musiques préférées à chaque fois que l'occasion se présente, c'est à dire à peu près tout le temps. J'utilise principalement cette plate-forme car elle est de bonne qualité mais aussi et surtout parce-qu'elle gratuite, bien qu'elle soit gratuite en l'échange de pub souvent peu supportable. 
-La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me permet de m'évader du monde actuel pour entrer dans un autre univers. Elle me permet de rêver et de recréer ma vie avec toutes ces mélodies. La musique est aussi comparable à l'essence d'une voiture chez moi. Elle m'anime et me fait vivre, la musique est un campagnon, elle peut même m'encourager à faire des tâches que je repousse. Lorsque je m'entraîne fort à la salle de sport elle est aussi présente dans mes écouteurs. Cela me rends vivante. 
+<p>Youtube est la plate-forme que j'utilise tout les jours pour écouter mes musiques préférées à chaque fois que l'occasion se présente, c'est à dire à peu près tout le temps. J'utilise principalement cette plate-forme car elle est de bonne qualité mais aussi et surtout parce-qu'elle gratuite, bien qu'elle soit gratuite en l'échange de pub souvent peu supportable.</p> 
+<p>La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me permet de m'évader du monde actuel pour entrer dans un autre univers. Elle me permet de rêver et de recréer ma vie avec toutes ces mélodies. La musique est aussi comparable à l'essence d'une voiture chez moi. Elle m'anime et me fait vivre, la musique est un campagnon, elle peut même m'encourager à faire des tâches que je repousse. Lorsque je m'entraîne en salle elle est aussi présente dans mes écouteurs. Cela me rends vivante.</p> 
 
 
 
@@ -92,18 +96,21 @@ Ce sujet ce n'est autre que:
 
 ### L'informatique
 
-Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web? Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme. 
+<p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web?</p> 
+<p>Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
-Oui rappelez-vous, je vous ai évoqué les arts plastiques, le sport parmi mes matières préférées mais aussi les **mathématiques**. 
-J'adore les mathématiques. Pourquoi? Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. C'était une des rares matière où je me donnais à 100%. Quand un professeur me donnait un problème à résoudre je devenais comme une souris face à un morceau de fromage. J'étais totalement obsédé par la résolution de ce problème, tant que je ne trouvais pas la solution. Je ne m'arrêtais pas de chercher. Si j'étais vraiment démotivé, je faisais une pause et je recommencer à chercher.
-La curiosité de trouver la solution était tellement forte, que je n'avais même pas besoin de me forcer. 
-Et une fois le problème résolu, la satisfaction procurée par cette victoire a une saveur unique et inestimable. Bien-sûr, une fois le problème du professeur résolu, que fait-on? On en redemande encore et encore et toujours plus d'exercices!
-J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la numéro 1 dans la matière, mes professeurs me faisait souvent part de petites éloges concernant ma logique dans cette matière. (Je vous préviens je ne suis pas Einstein loin de la!)
+<p>Oui rappelez-vous, je vous ai évoqué les arts plastiques, le sport parmi mes matières préférées mais aussi les **mathématiques**. 
+J'adore les mathématiques. Pourquoi? Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. C'était une des rares matière où je me donnais à 100%.</p> 
+<p>Quand un professeur me donnait un problème à résoudre je devenais comme une souris face à un morceau de fromage. J'étais totalement obsédé par la résolution de ce problème, tant que je ne trouvais pas la solution. Je ne m'arrêtais pas de chercher. Si j'étais vraiment démotivé, je faisais une pause et je recommencer à chercher.</p>
+<p>La curiosité de trouver la solution était tellement forte, que je n'avais même pas besoin de me forcer. 
+Et une fois le problème résolu, la satisfaction procurée par cette victoire a une saveur unique et inestimable.
+J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la numéro 1 dans la matière, mes professeurs me faisait souvent part de petites éloges concernant ma logique dans cette matière. (Je vous préviens je ne suis pas Einstein loin de la!)</p>
 
 Quand on creuse un peu plus, les mathématiques sont à la base du web. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités sur le web, c'est des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes. 
 
-Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été très curiseuse à l'univers du web, qui est juste géant et inestimable. Personne ne connait toutes les ressources de ce réseau démesurable. 
-J'ai commencé à m'intéresser très sérieusement à ce métier, lorsque j'étais au lycée en classe de première. Nous devions cherché un stage d'observation en entreprise. Mais notre professeur nous avait prévenu (professeur que je remercie pour tout d'ailleurs), il ne voulait pas entendre parlé de stage dans la sandwicherie du coin pour manger à volonté, il voulait un stage en lien avec un métier qui nous intéressé réellement. C'était l'occasion de s'interroger sur notre avenir professionnelle, j'ai commencer à chercher des métiers, souvent en lien avec les mathématiques. Puis j'étais tombé sur la fiche "Développeur d'applications". J'avais trouvé cette fiche fascinante, c'était très rare qu'un métier m"intéresse autant. C'était décidé je voulais faire mon stage chez un développeur. Mais je ne connaissais personne, je n'avais aucun réseau. J'en ai donc fais part à mon très chère professeur, qui était très heureux que je m'intéresse à ce métier car surprise avant d'être professeur il était développeur web. 
+<p>Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été très curiseuse à l'univers du web, qui est juste géant et inestimable. Personne ne connait toutes les ressources de ce réseau démesurable.</p> 
+<p>J'ai commencé à m'intéresser très sérieusement à ce métier, lorsque j'étais au lycée en classe de première. Nous devions cherché un stage d'observation en entreprise. Mais notre professeur nous avait prévenu (professeur que je remercie pour tout d'ailleurs), il ne voulait pas entendre parlé de stage dans la sandwicherie du coin pour manger à volonté, il voulait un stage en lien avec un métier qui nous intéressé réellement.</p> 
+<p>C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel, j'ai commencer à chercher des métiers, souvent en lien avec les mathématiques. Puis j'étais tombé sur la fiche "Développeur d'applications". J'avais trouvé cette fiche fascinante, c'était très rare qu'un métier m"intéresse autant. C'était décidé je voulais faire mon stage chez un développeur. Mais je ne connaissais personne, je n'avais aucun réseau. J'en ai donc fais part à mon très chère professeur, qui était très heureux que je m'intéresse à ce métier car surprise avant d'être professeur il était développeur web.</p> 
 
 Quelle chance j'avais à ce moment. Il avait donc des contacts, et m'a présenter à une petite entreprise de la ville avec quelques développeurs qui m'a donc accepté comme stagiare. J'ai effectué un stage d'observation d'une semaine avec un développeur web qui ne m'avait pas du tout déplus loin de là. 
 
