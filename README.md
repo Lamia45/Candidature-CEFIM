@@ -32,16 +32,17 @@ Maintenant attaquons mes (petites) expériences professionnelles!
 
 <h2>Mes expériences professionnelles</h2>
 
-Etant encore jeune, je n'ai pas encore le C.V. long comme le bras, cependant j'ai quelques petites expériences dans des métiers sans qualication particulière. 
+<p>Etant encore jeune, je n'ai pas encore le C.V. long comme le bras, cependant j'ai quelques petites expériences dans des métiers sans qualication particulière.</p> 
  
 
-Mes métiers:
-  <ul>
+<p>Mes métiers:
+  <ol>
   <li>Chargée de l'accueil et du service petit-déjeuner (hôtel IBIS)</li>
   <li>Chargée de l'accueil du service petit-déjeuner et du nettoyage (Auberge de Jeunesse)</li>
   <li>Travail à la chaîne usine de cosmétique (L.T.E.)</li>
   <li>Chargée de conseils clients et de mises en rayons (T.A.T.I.)</li>
-  </ul>
+  </ol>
+</p>
 
 Maintenant passons à ma partie préférée, enfin!
 
