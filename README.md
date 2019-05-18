@@ -7,7 +7,7 @@
  <body>
   <h1>Bienvenue sur ma page de présentation!</h1> 
 <ul>
-  <h2><li>Introduction</li></h2>
+  <li><h2>Introduction</h2></li>
 <p>Bonjour! Moi c'est Lamia enchantée. <br />
 Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. Je suis tombée sur la formation CEFIM en recherchant activement une formation en tant que développeuse web sur Google tout simplement. Chose que je ne regrette absoluement pas!</p> 
 
