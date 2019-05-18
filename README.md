@@ -6,7 +6,8 @@
  
  <body>
   <h1>Bienvenue sur ma page de présentation!</h1> 
-
+<ul>
+  <h2><li>Introduction</li></h2>
 <p>Bonjour! Moi c'est Lamia enchantée. <br />
 Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. Je suis tombée sur la formation CEFIM en recherchant activement une formation en tant que développeuse web sur Google tout simplement. Chose que je ne regrette absoluement pas!</p> 
 
@@ -20,7 +21,7 @@ C'est parti!
 
 Tiens, commençons par ce que je préfère le moins: 
 
-<h2>Mon parcours scolaire</h2>
+<h2><li>Mon parcours scolaire</li></h2>
 
 <p>Moi et l'école? Une longue histoire d'amour forcée qui ne s'est pas finit dans la joie...<br /> 
 En effet, je n'ai jamais été une grande fan de "l'école".  Je n'approuve pas les méthodes de l'école tout simplement car pour moi elle anihile toute forme de créativité chez les enfants et l'adolescents. Nous sommes incités dès notre plus jeune âge à réfléchir sur notre futur métier, pour devenir de bon futurs employé. Ce qui pour moi n'est pas la destinée de tout élèves. C'est un sujet complexe sur lequel je m'élance et ne souhaite accuser personne car je suis convaincu que l'éducation nationale fait son maximum pour tout les élèves. Néanmoins je suis et je reste une protestante de ce système éducatif qui ma toujours empêché de réfléchir avec une vision à 360°. Cependant des réformes sur les programmes scolaires notamment au lycée se mettent doucement en place et j'en suis d'ailleurs très heureuse pour les futurs lycéens.<br /> 
@@ -30,7 +31,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 
 Maintenant attaquons mes (petites) expériences professionnelles! 
 
-<h2>Mes expériences professionnelles</h2>
+<h2><li>Mes expériences professionnelles</li></h2>
 
 <p>Etant encore jeune, je n'ai pas encore le C.V. long comme le bras, cependant j'ai quelques petites expériences dans des métiers sans qualication particulière.</p> 
  
@@ -46,7 +47,7 @@ Maintenant attaquons mes (petites) expériences professionnelles!
 
 Maintenant passons à ma partie préférée, enfin!
 
-<h2>Mes passions</h2> 
+<h2><li>Mes passions</li></h2> 
 
 Quelle est ma passion où plutôt quelles sont mes passions?
 
@@ -67,7 +68,7 @@ Et oui-oui tout à fait encore du football! Je suis une grande fan de football, 
 
 Elargissons ma présentation!
 
-<h2>Mes centre d'intérêt</h2> 
+<h2><li>Mes centre d'intérêt</li></h2> 
 
 Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous. 
 
@@ -105,8 +106,8 @@ Ce sujet ce n'est autre que:
 
 
 
-<h2>L'informatique</h2>
-
+<h2><li>L'informatique</li></h2>
+</ul>
 <p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web?</p> 
 <p>Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
