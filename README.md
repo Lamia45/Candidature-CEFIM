@@ -104,7 +104,8 @@ La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me
 
 <p>Pour conclure nous allons aborder le point le plus important de ma présentation.</p>
 
-<li><h2 id="informatique">L'informatique</h2></li></ol>
+<li><h2 id="informatique">L'informatique</h2></li></ul>
+
 <p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web?<br />
 Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
