@@ -11,15 +11,14 @@
 <p>Bonjour! Moi c'est Lamia enchantée. <br />
 Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. Je suis tombée sur la formation CEFIM en recherchant activement une formation en tant que développeuse web sur Google tout simplement. Chose que je ne regrette absoluement pas!</p> 
 
-Et si je me présentais un peu plus en détail? 
+<p>Et si je me présentais un peu plus en détail?</p> 
 
 <p>Dans cette présentation je ne vais pas seulement vous faire part de mes passions et de mon parcours, je n'hésiterais pas à approfondir ma présentation pour qu'a travers mon texte vous ressentiez quel type de personne je suis, quelles sont mes opinions, quelle est ma vison de la vie mais aussi et surtout mes ambitions professionnelle. Attention, j'espère que vous aimez la lecture!</p> 
 
-Alors, on y va?
+<p>Alors, on y va?<br />
+C'est parti!</p> 
 
-C'est parti! 
-
-Tiens, commençons par ce que je préfère le moins: 
+<p>Tiens, commençons par ce que je préfère le moins:</p> 
 
 <h2><li>Mon parcours scolaire</li></h2>
 
@@ -29,11 +28,9 @@ Donc pour clore ce sujet sur mon parcours scolaire. J'ai décrochée les études
 Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p> 
 
 
-Maintenant attaquons mes (petites) expériences professionnelles! 
+<p>Maintenant attaquons mes (petites) expériences professionnelles!</p> 
 
 <h2><li>Mes expériences professionnelles</li></h2>
-
-<p>Etant encore jeune, je n'ai pas encore le C.V. long comme le bras, cependant j'ai quelques petites expériences dans des métiers sans qualication particulière.</p> 
  
 
 <p>Mes métiers:
@@ -45,41 +42,41 @@ Maintenant attaquons mes (petites) expériences professionnelles!
   </ol>
 </p>
 
-Maintenant passons à ma partie préférée, enfin!
+<p>Maintenant passons à ma partie préférée, enfin!</p>
 
 <h2><li>Mes passions</li></h2> 
 
-Quelle est ma passion où plutôt quelles sont mes passions?
+<p>Quelle est ma passion où plutôt quelles sont mes passions?</p>
 
-Et bien tout d'abord ma première passion est le football: 
+<p>Et bien tout d'abord ma première passion est le football:</p> 
 
 [Image](https://medias.lequipe.fr/img-photo-jpg/cristiano-ronaldo-affole-les-compteurs-en-ligue-des-champions-presse-sports/1500000001114985/0:0,1998:1332-624-416-75/a7f8f.jpg)
 
-Ma deuxième passion est: 
+<p>Ma deuxième passion est:</p> 
 
 [Image](https://medias.lequipe.fr/img-photo-jpg/les-supporters-du-real-souhaitent-voir-mbappe-rejoindre-leur-equipe-p-lahalle-l-equipe/1500000001120144/0:0,1998:1332-624-416-75/60b14.jpg)
 Oui encore du football!
 
-Et enfin ma troisième passion: 
+<p>Et enfin ma troisième passion:</p> 
 
 [Image](https://cdn-media.rtl.fr/cache/TPT-DtdAW_LD7z8-PW2tAg/880v587-0/online/image/2018/1219/7795980624_15-juillet-l-equipe-de-france-de-football-remporte-la-coupe-du-monde-pour-la-2e-fois-de-son-histoire.jpg)
 
-Et oui-oui tout à fait encore du football! Je suis une grande fan de football, une véritable passionnée, un sport que j'ai longtemps pratiqué intensivement en section sportive scolaire au lycée. J'adore regarder le football, analyser, et le pratiquer surtout. Ce n'est pas juste un passe-temps c'est vraiment un sport qui prends une place énorme dans ma vie au quotidien. 
+<p>Et oui-oui tout à fait encore du football! Je suis une grande fan de football, une véritable passionnée, un sport que j'ai longtemps pratiqué intensivement en section sportive scolaire au lycée. J'adore regarder le football, analyser, et le pratiquer surtout. Ce n'est pas juste un passe-temps c'est vraiment un sport qui prends une place énorme dans ma vie au quotidien.</p> 
 
-Elargissons ma présentation!
+<p>Elargissons ma présentation!</p>
 
 <h2><li>Mes centre d'intérêt</li></h2> 
 
-Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous. 
+<p>Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous.</p> 
 
-Parlons-en maintenant!
+<p>Parlons-en maintenant!</p>
 
 <ol>
   <h3><li>Le dessin</li></h3>
 [Image](http://espritbd.fr/wp-content/uploads/2018/01/bien-900x450.jpg)
 
-J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques. Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème.
-<p>Malheureusement j'étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
+<p>J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques. Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème.<br />
+Malheureusement j'étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
 
 <h3><li>La mode</li></h3> 
 [Image](https://conseilnationalducuir.org/sites/default/files/styles/photo_credit_contenu/public/medias-cnc/guide_des_metiers/styliste.jpg?itok=L1P64tHU)
@@ -94,24 +91,14 @@ Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement
 <p>Youtube est la plate-forme que j'utilise tout les jours pour écouter mes musiques préférées à chaque fois que l'occasion se présente, c'est à dire à peu près tout le temps. J'utilise principalement cette plate-forme car elle est de bonne qualité mais aussi et surtout parce-qu'elle gratuite (bien qu'elle le soit en l'échange de pub souvent peu supportable).<br /> 
 La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me permet de m'évader du monde actuel pour entrer dans un autre univers. Elle me permet de rêver et de recréer ma vie avec toutes ces mélodies. La musique est aussi comparable à l'essence d'une voiture chez moi. Elle m'anime et me fait vivre, la musique est un campagnon, elle peut même m'encourager à faire des tâches que je repousse. Lorsque je m'entraîne en salle elle est aussi présente dans mes écouteurs. Cela me rends vivante.</p> 
 
-
-
-Bon et bien voilà je pense avoir termninée ma présentation...
-Mais, pas si vite! 
-
-Il manque un sujet primordiale, je dirais même un sujet à la base de ma présentation que je ne vous ai encore évoquer. Sans ce sujet cette présentation n'existerait même pas et n'aurait jamais vu le jour.  
-
-Ce sujet ce n'est autre que: 
-
-
-
+<p>Pour conclure nous allons aborder le point le plus important de ma présentation.</p>
 
 <h2><li>L'informatique</li></h2>
 </ul>
-<p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web?</p> 
-<p>Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
+<p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web?<br />
+Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
-<p>Oui rappelez-vous, je vous ai évoqué les arts plastiques, le sport parmi mes matières préférées mais aussi les **mathématiques**. 
+<p>Oui rappelez-vous, je vous ai évoqué les arts plastiques, le sport parmi mes matières préférées mais aussi les <strong>mathématiques</strong>. 
 J'adore les mathématiques. Pourquoi? Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. C'était une des rares matière où je me donnais à 100%.<br /> 
 Quand un professeur me donnait un problème à résoudre je devenais comme une souris face à un morceau de fromage. J'étais totalement obsédé par la résolution de ce problème, tant que je ne trouvais pas la solution. Je ne m'arrêtais pas de chercher.</p>
 <p>La curiosité de trouver la solution était tellement forte, que je n'avais même pas besoin de me forcer. 
@@ -126,9 +113,9 @@ C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel
 
 <p>Quelle chance j'avais à ce moment. Il avait donc des contacts, et m'a présenter à une petite entreprise de la ville avec quelques développeurs qui m'a donc accepté comme stagiare. J'ai effectué un stage d'observation d'une semaine avec un développeur web qui ne m'avait pas du tout déplus loin de là.</p> 
 
-Enfin j'ai choisis la formation de développeuse web pour en faire mon métier acquérir une solide expérience dans le métier, pour ensuite gravir les échelons. 
+<p>Enfin j'ai choisis la formation de développeuse web pour en faire mon métier acquérir une solide expérience dans le métier, pour ensuite gravir les échelons.</p> 
 
-Notre vie est une équation dont nous seule pouvons trouver les solutions.  
+<p><em>"Notre vie est semblable à une équation dont nous seule pouvons trouver les solutions."</em></p>  
 
 <p>Pour conclure le but de ma présentation était de vous montrer mes centres intérêt mais aussi ma personne, car c'est en déterminant le profil d'une personne et sa manière de penser qu'on peut commencer a savoir ce dont à quoi elle va penser avant même qu'elle ne le pense. Je voulais vous montrer que le choix d'une formation de développeuse web n'était pas un choix prit au hasard, mais que j'éprouve une réelle curiosité et motivation envers le web et ce qui l'entoure. En espérant que cette "petite" présentation vous aura plu, je vous remercie d'avoir lu ma candidature avec attention et vous prie d'agréer mes sincères salutations.</p> 
  
