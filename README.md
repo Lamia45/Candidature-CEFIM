@@ -1,6 +1,6 @@
 ## Bienvenue sur ma page de présentation! 
 
-Bonjour! Moi c'est Lamia enchantée. Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. Je suis tombée sur la formation CEFIM en recherchant activement une formation en tant que développeuse web sur Google tout simplement, chose que je ne regrette absoluement pas! 
+<p>Bonjour! Moi c'est Lamia enchantée. Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine.</p> Je suis tombée sur la formation CEFIM en recherchant activement une formation en tant que développeuse web sur Google tout simplement, chose que je ne regrette absoluement pas! 
 Et si je me présentais un peu plus en détail? 
 Dans cette présentation je ne vais pas seulement vous faire part de mes passions et de mon parcours comme un petit devoir d'écolier, je n'hésiterais pas à approfondir ma présentation pour qu'a travers mon texte vous ressentiez quel type de personne je suis, quelles sont mes opinions, quelle est ma vison de la vie mais aussi et surtout mes ambitions professionnelle. Attention, j'espère que vous aimez la lecture! 
 
