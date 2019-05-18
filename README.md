@@ -104,9 +104,10 @@ Il ne n'agit pas d'une passion pour moi, mais tout comme le dessin, cela me perm
 
 <li><h2 id="informatique">L'informatique</h2></li>
 
-<p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web?<br />
+<p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le code?<br />
   <img src="https://www.easy-forma.fr/wp-content/uploads/2018/07/emploi-dans-linformatique.png" alt="informatique" />
-Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
+</p>
+<p>Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
 <p>Oui rappelez-vous, je vous ai évoqué les arts plastiques, le sport parmi mes matières préférées mais aussi les <strong>mathématiques</strong>. 
 J'adore les mathématiques. Pourquoi? Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. C'était une des rares matière où je me donnais à 100%.<br /> 
@@ -115,8 +116,7 @@ Quand un professeur me donnait un problème à résoudre je devenais comme une s
 Et une fois le problème résolu, la satisfaction procurée par cette mini-victoire était unique.<br />
 J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la numéro 1 dans la matière, mes professeurs me faisait souvent part de petites éloges concernant ma logique dans la matière. (Je vous préviens je ne suis pas Einstein loin de la!)</p>
 
-<p>Quand on creuse un peu plus, les mathématiques sont à la base du web. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités sur le web, c'est des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes.</p> 
-
+<p>Quand on creuse un peu plus, les mathématiques sont à la base du web. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités sur le web, ce sont des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes.</p>
 <p>Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été très curiseuse à l'univers du web, qui est juste géant et inestimable. Personne ne connait toutes les ressources de ce réseau démesurable.<br />
 J'ai commencé à m'intéresser très sérieusement à ce métier, lorsque j'étais au lycée en classe de première. Nous devions cherché un stage d'observation en entreprise. Mais notre professeur nous avait prévenu (professeur que je remercie pour tout d'ailleurs), il ne voulait pas entendre parlé de stage dans la sandwicherie du coin pour manger à volonté, il voulait un stage en lien avec un métier qui nous intéressé réellement.<br /> 
 C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel, j'ai commencer à chercher des métiers, souvent en lien avec les mathématiques. Puis j'étais tombé sur la fiche "Développeur d'applications". J'avais trouvé cette fiche fascinante, c'était très rare qu'un métier m'intrigue autant. C'était décidé je voulais faire mon stage auprès d'un développeur. Mais je ne connaissais personne, je n'avais aucun réseau. J'en ai donc fais part à mon très cher professeur, qui était très heureux que je m'intéresse à ce métier, car surprise... avant d'être professeur, il était développeur web.</p> 
