@@ -1,4 +1,12 @@
-## Bienvenue sur ma page de présentation! 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Ma presentation Bang</title>
+ </head>
+ 
+ <body>
+ ## Bienvenue sur ma page de présentation! 
 
 <p>Bonjour! Moi c'est Lamia enchantée. <br />
 Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. Je suis tombée sur la formation CEFIM en recherchant activement une formation en tant que développeuse web sur Google tout simplement. Chose que je ne regrette absoluement pas!</p> 
@@ -122,48 +130,5 @@ Notre vie est une équation dont nous seule pouvons trouver les solutions.
 
 <p>Pour conclure le but de ma présentation était de vous montrer mes centres intérêt mais aussi ma personne, car c'est en déterminant le profil d'une personne et sa manière de penser qu'on peut commencer a savoir ce dont à quoi elle va penser avant même qu'elle ne le pense. Je voulais vous montrer que le choix d'une formation de développeuse web n'était pas un choix prit au hasard, mais que j'éprouve une réelle curiosité et motivation envers le web et ce qui l'entoure. En espérant que cette "petite" présentation vous aura plu, je vous remercie d'avoir lu ma candidature avec attention et vous prie d'agréer mes sincères salutations.</p> 
  
-
-
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/Lamia45/Candidature-CEFIM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lamia45/Candidature-CEFIM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
