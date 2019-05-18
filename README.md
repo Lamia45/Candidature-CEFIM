@@ -34,15 +34,15 @@ Maintenant attaquons mes (petites) expériences professionnelles!
 
 Etant encore jeune, je n'ai pas encore le C.V. long comme le bras, cependant j'ai quelques petites expériences dans des métiers sans qualication particulière. 
  
-```markdown
+
 Mes métiers:
+  <ul>
+  <li>Chargée de l'accueil et du service petit-déjeuner (hôtel IBIS)</li>
+  <li>Chargée de l'accueil du service petit-déjeuner et du nettoyage (Auberge de Jeunesse)</li>
+  <li>Travail à la chaîne usine de cosmétique (L.T.E.)</li>
+  <li>Chargée de conseils clients et de mises en rayons (T.A.T.I.)</li>
+  </ul>
 
-1. Chargée de l'accueil et du service petit-déjeuner (hôtel IBIS)
-2. Chargée de l'accueil du service petit-déjeuner et du nettoyage (Auberge de Jeunesse)
-3. Travail à la chaîne usine de cosmétique (L.T.E.)
-4. Chargée de conseils clients et de mises en rayons (T.A.T.I.)
-
-```
 Maintenant passons à ma partie préférée, enfin!
 
 <h2>Mes passions</h2> 
