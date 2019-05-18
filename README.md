@@ -81,20 +81,23 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 
 <ol>
   <h3><li>Le dessin</li></h3>
-[Image](http://espritbd.fr/wp-content/uploads/2018/01/bien-900x450.jpg)
+<p>
+  <img src="http://espritbd.fr/wp-content/uploads/2018/01/bien.jpg" alt="dessin" />
 
 <p>J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques. Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème.<br />
 Malheureusement j'étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
 
 <h3><li>La mode</li></h3> 
-[Image](https://conseilnationalducuir.org/sites/default/files/styles/photo_credit_contenu/public/medias-cnc/guide_des_metiers/styliste.jpg?itok=L1P64tHU)
+<p>
+  <img src="https://conseilnationalducuir.org/sites/default/files/styles/photo_credit_contenu/public/medias-cnc/guide_des_metiers/styliste.jpg?itok=L1P64tHU" alt="mode" />
 
 <p>Mon rêve d'enfant était de devenir une grande styliste reconnu, ce rêve s'était initié dans mon esprit naturellement.<br /> 
 Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine. J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait s'éveiller un jour qui sait.</p> 
 
 <h3><li>La musique</li></h3>
 </ol>
-[Image](https://www.webrankinfo.com/dossiers/wp-content/uploads/youtube-logo-2017-743.png)
+<p>
+  <img src="https://img2.freepng.fr/20180404/pew/kisspng-youtube-play-button-computer-icons-clip-art-youtube-5ac595c5882749.5166607015228983735577.jpg" alt="youtube" />
 
 <p>Youtube est la plate-forme que j'utilise tout les jours pour écouter mes musiques préférées à chaque fois que l'occasion se présente, c'est à dire à peu près tout le temps. J'utilise principalement cette plate-forme car elle est de bonne qualité mais aussi et surtout parce-qu'elle gratuite (bien qu'elle le soit en l'échange de pub souvent peu supportable).<br /> 
 La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me permet de m'évader du monde actuel pour entrer dans un autre univers. Elle me permet de rêver et de recréer ma vie avec toutes ces mélodies. La musique est aussi comparable à l'essence d'une voiture chez moi. Elle m'anime et me fait vivre, la musique est un campagnon, elle peut même m'encourager à faire des tâches que je repousse. Lorsque je m'entraîne en salle elle est aussi présente dans mes écouteurs. Cela me rends vivante.</p> 
