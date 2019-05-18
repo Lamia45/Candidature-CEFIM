@@ -44,7 +44,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <p>Maintenant attaquons mes (petites) expériences professionnelles!</p> 
 
 <li><h2 id="experience">Mes expériences professionnelles</h2></li>
- <p><img src="https://www.unaniime.com/hs-fs/hubfs/giphy-2.gif?width=563&name=giphy-2.gif" alt="employé" />
+ <p><img src="https://www.unaniime.com/hs-fs/hubfs/giphy-2.gif?width=563&name=giphy-2.gif" alt="employé" /></p>
 <p>Mes métiers:
   <ol>
   <li>Chargée de l'accueil et du service petit-déjeuner (hôtel IBIS)</li>
