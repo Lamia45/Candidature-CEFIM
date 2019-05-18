@@ -64,12 +64,10 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <img src="https://media1.giphy.com/media/2wY27i2fESYsuig7qH/giphy.gif" alt="Kylian Mbappe" />
 
 </p>
-<p>Oui encore du football!</p>
-
 <p>Et enfin ma troisième passion:
 <img src="http://media.toucharger.com/web/toucharger/upload/image_domain/7/6/76429/76429.gif" alt="Champion du monde 2018" />
 </p>
-<p>Je vous résume ça dans l'ordre: Cristiano Ronaldo et Kylian Mbappé mes 2 joueurs de football préférés et ensuite l'équipe de France! Vous l'aurez compris je suis une grande fan de football, j'en suis éperduemment amoureuse telle une véritable passionnée, un sport que j'ai longtemps pratiqué intensivement en section sportive scolaire au lycée. J'adore regarder le football, analyser, et le pratiquer surtout. Ce n'est pas juste un simple sport pour se défouler c'est vraiment un sport qui prends une place énorme dans ma coeur et dans ma vie au quotidien.</p> 
+<p>Je vous résume ça dans l'ordre: Cristiano Ronaldo et Kylian Mbappé mes 2 joueurs de football préférés et ensuite l'équipe de France! Vous l'aurez compris je suis une grande fan de football, j'en suis éperduemment amoureuse telle une véritable passionnée, un sport que j'ai longtemps pratiqué intensivement en sport-études au lycée. J'adore regarder le football, analyser, et le pratiquer surtout. Il ne s'agit pas juste d'un simple jeu c'est vraiment une passion qui prends une place énorme dans mon coeur et dans ma vie au quotidien.</p> 
 
 <p>Elargissons ma présentation à présent!</p>
 
@@ -107,6 +105,7 @@ La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me
 <li><h2 id="informatique">L'informatique</h2></li>
 
 <p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web?<br />
+  <img src="https://www.easy-forma.fr/wp-content/uploads/2018/07/emploi-dans-linformatique.png" alt="informatique />
 Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
 <p>Oui rappelez-vous, je vous ai évoqué les arts plastiques, le sport parmi mes matières préférées mais aussi les <strong>mathématiques</strong>. 
