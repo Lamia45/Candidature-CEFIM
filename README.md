@@ -57,7 +57,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <p>Quelle est ma passion où plutôt quelles sont mes passions?</p>
 
 <p>Et bien tout d'abord ma première passion est le football: 
-<img src="https://thumbs.gfycat.com/CircularEarnestAoudad-max-1mb.gif" alt="Cristiano Ronaldo" />
+<img src="https://media0.giphy.com/media/IFLEqB7gSxUY/giphy.gif" alt="Cristiano Ronaldo" />
 </p>
 
 <p>Ma deuxième passion est: 
