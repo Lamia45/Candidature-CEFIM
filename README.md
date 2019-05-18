@@ -94,7 +94,7 @@ Malheureusement j'étais tellement aspirée par le football que je n'ai jamais p
 <p>Mon rêve d'enfant était de devenir une grande styliste reconnu, ce rêve s'était initié dans mon esprit naturellement.<br /> 
 Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine. J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait s'éveiller un jour qui sait.</p> 
 
-<h3><li>La musique</li></h3></ol>
+<h3><li>La musique</li></h3>
 
 <p>
   <img src="https://www.toulouse-tech-transfer.com/wp-content/uploads/2017/06/youtube-logo-1024x629.jpg" alt="youtube" />
@@ -104,7 +104,7 @@ La musique ce n'est pas une passion pour moi, mais tout comme le dessin, cela me
 
 <p>Pour conclure nous allons aborder le point le plus important de ma présentation.</p>
 
-<li><h2 id="informatique">L'informatique</h2></li></ul>
+<li><h2 id="informatique">L'informatique</h2></li>
 
 <p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le web?<br />
 Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
@@ -131,6 +131,4 @@ C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel
  <p><em>"Cela semble toujours impossible, jusqu'à ce qu'on le fasse."</em><br />
 <mark>Nelson Mandela</mark></p>
  
-</body>
 
-</html>
