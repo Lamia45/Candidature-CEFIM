@@ -143,7 +143,7 @@ Et une fois le problème résolu, la satisfaction procurée par cette mini-victo
   <img src="https://media1.giphy.com/media/jDWXq9EHaF2uY/giphy.gif" alt="victoire" /></p>
 
 <p>Quand on creuse un peu plus, les mathématiques sont à la base de la programmation. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités dans les langages, ce sont des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes.</p>
-<p>Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été de nature très curiseuse sur l'univers du web, qui est juste géant avec des ressources inestimables. Personne ne connait toutes les ressources de ce réseau démesurable.<br />
+<p>Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été de nature très curiseuse sur l'univers du web, qui est juste géant avec des ressources inestimables.<br />
 J'ai commencé à m'intéresser très sérieusement à ce métier, lorsque j'étais au lycée en classe de première. Nous devions cherché un stage d'observation en entreprise.<br /> 
 C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel. Je commençames donc à chercher des métiers, souvent en lien avec les mathématiques. Puis j'étais tombé sur la fiche "Développeur d'applications". J'avais trouvé cette fiche fascinante, c'était très rare qu'un métier m'intrigue autant. C'était décidé, je voulais faire mon stage auprès d'un développeur.</p> 
 
