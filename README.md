@@ -4,11 +4,12 @@
   <style>
     body
     {
-      background-color: white;
+      background-color: rgb(183, 214, 226);
     }
     h1, h2
     {
       font-size: 1.6em;
+      color: white;  
     }
     p
     {
