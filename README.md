@@ -4,8 +4,13 @@
   <style>
     h1, h2
     {
-      color: blue;
+      font-weight: bold;
     }
+    p
+    {
+      font-style: italic;
+    }
+    
   </style>
   <title>Presentation Lamia</title>
  </head>
