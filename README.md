@@ -4,7 +4,7 @@
   <style>
     body
     {
-      background-color: rgb(219, 183, 226);
+      background-color: rgb(212, 175, 219);
     }
     h1, h2
     {
