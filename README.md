@@ -134,7 +134,7 @@ Tout comme le dessin, elle me permet de m'évader pour entrer dans un autre univ
 
 <p>Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
-<p>Oui rappelez-vous, je vous ai évoqué les arts plastiques, le sport parmi mes matières préférées mais aussi les <strong>mathématiques</strong>. 
+<p>Oui rappelez-vous, j'ai cité les <strong>mathématiques</strong> parmis mes matières préférées. 
 J'adore les mathématiques. Pourquoi? <br />Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. C'était une des rares matière où je me donnais à 100%.<br /> 
 Quand un professeur me donnait un problème à résoudre je devenais comme une souris face à son morceau de fromage. J'étais totalement omnibulée par la résolution de ce problème, tant que je ne trouvais pas la solution. Je ne m'arrêtais pas de chercher.</p>
 <p>La curiosité de trouver la solution était tellement forte, que je n'avais même pas besoin de me forcer. 
@@ -151,7 +151,7 @@ C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel
 
 <p><img src="https://media0.giphy.com/media/7K3p2z8Hh9QOI/giphy.gif" alt="chiots question" /></p> 
 
-<p>Pour conclure le but de ma présentation était de vous montrer mes centres intérêt mais aussi ma personne, pour que vous permettre une compréhension de ma logique et surtout ce qui m'a amenée à choisir le métier de développeuse web. Je voulais vous montrer que le choix de cette formation n'avait pas été prit les yeux bandés, mais que j'éprouve une réelle curiosité et motivation envers le web et ce qui l'entoure. En espérant que cette "petite" présentation vous aura plu, je vous remercie d'avoir lu ma candidature avec attention et vous prie d'agréer mes sincères salutations.</p> 
+<p>Pour courroner le tout, il y a quelques mois, je me suis jetté à l'eau. J'ai démarré le cours de OpenClassrooms en JavaScript, et j'ai adoré! J'ai aussi adoré faire cette présentation en HTML5 et CSS3 car je ne connaissais ces langages que de nom. Je me suis beaucoup amusé durant ce travail. En espérant que cette "petite" présentation vous aura plu, je vous remercie d'avoir lu ma candidature avec attention et vous prie d'agréer mes sincères salutations.</p> 
  
  <p><em>"Cela semble toujours impossible, jusqu'à ce qu'on le fasse."</em><br />
 <mark>Nelson Mandela</mark></p>
