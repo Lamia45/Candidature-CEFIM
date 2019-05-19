@@ -4,11 +4,7 @@
   <style>
     h1, h2
     {
-      font-size: 1.7em;
-    }
-    h3
-    {
-      font-weight: bold;
+      font-size: 1.6em;
     }
     p
     {
