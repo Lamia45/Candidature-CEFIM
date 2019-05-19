@@ -24,7 +24,7 @@ Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. J
 <img src="http://www.silkhom.com/wp-content/uploads/2016/05/giphy-4.gif" alt="image drôle" />
 </p> 
 
-<p>Dans cette présentation je ne vais pas seulement vous faire part de mes passions et de mon parcours, je n'hésiterais pas à approfondir ma présentation pour qu'a travers mon texte vous ressentiez quel type de personnage suis-je, quelles sont mes pensées, quelle est ma vison de la vie mais aussi et surtout mes ambitions professionnelle. Attention, j'espère que vous aimez la lecture!</p> 
+<p>Dans cette présentation je ne vais pas seulement vous faire part de mes passions et de mon parcours, je n'hésiterais pas à approfondir ma présentation pour qu'a travers mon texte vous ressentiez quel type de personnage suis-je, quelles sont mes pensées, quelle est ma vison de la vie mais aussi et surtout mes ambitions professionnelles. Attention! J'espère que vous aimez la lecture.</p> 
 
 <p>Alors, on y va?<br />
 C'est parti!</p> 
@@ -36,7 +36,7 @@ C'est parti!</p>
 <p>Moi et l'école? Une longue histoire d'amour forcée qui ne s'est pas finit dans la joie...<br /> 
   
   <p><img src="https://media.tenor.co/images/8916d9a3c52ae5652a74b5ce54207088/raw" alt="ennui" /></p>
-<p>En effet, je n'ai jamais été une grande fan de "l'école".  Je n'approuve pas les méthodes de l'école tout simplement car pour moi elle anihile toute forme de créativité chez les enfants et adolescents. Les cours m'ennuyait énormément, je trouvais le programme, lent, monotone et l'apprentissage de mes cours était comparable à une corvée dont on voulait à tout prix se débarasser.<br /> Ce n'est pas chose aisée pour moi de vous résumer en quelques phrases cette réticence que j'éprouve envers l'école.<br /> Mais souvent quand j'étais en classe, j'avais cette folle impression de perdre mon temps. Mon entourage me répétait en boucle "Oui Lamia, fais des études supérieures comme ça tu auras un bon métier et un bon salaire!". En toute honnêté, avez-vous déjà vu un élève studieux devenir riche grâce à ses diplôme?<br /> Moi jamais personnellement. Des personnes intelligentes s'enrichir j'en ai déjà vu, mais grâce à un diplôme, non pas vraiment. Donc cet argument ne valait guère dans ma tête. Je ne veux pas piétiner le système scolaire car il m'a beaucoup apprit, je l'admet. Mais j'ai toujours eu cette sensation de ne pas être à ma place. Pourtant je ne me définis pas comme mauvaise élève, au contraire même, j'avais quelques facilités.<br /> 
+<p>En effet, je n'ai jamais été une grande fan de "l'école".  Je n'approuve pas les méthodes de l'école tout simplement car pour moi elles anihilent toute forme de créativité chez les enfants et adolescents. Les cours m'ennuyaient énormément, je trouvais le programme, lent, monotone et l'apprentissage de mes cours était comparable à une corvée dont on voulait à tout prix se débarasser.<br /> Ce n'est pas chose aisée pour moi de vous résumer en quelques phrases cette réticence que j'éprouve envers l'école.<br /> Mais souvent quand j'étais en classe, j'avais cette folle impression de perdre mon temps. Mon entourage me répétait en boucle "Oui Lamia, fais des études supérieures comme ça tu auras un bon métier et un bon salaire!". En toute honnêté, avez-vous déjà vu un élève studieux devenir riche grâce à ses diplômes?<br /> Moi jamais personnellement. Des personnes intelligentes s'enrichir j'en ai déjà vu, mais grâce à un diplôme, non pas vraiment. Donc cet argument ne valait guère dans ma tête. Je ne veux pas piétiner le système scolaire car il m'a beaucoup apprit, je l'admet. Mais j'ai toujours eu cette sensation de ne pas être à ma place. Pourtant je ne me définis pas comme mauvaise élève, au contraire même, j'avais quelques facilités.<br /> 
 Donc pour clore le sujet sur mon parcours scolaire. J'ai décrochée les études durant mon année de terminale dans la filière Sciences et Technologies du Management et de la Gestion (STMG), je n'ai donc ni passée ni obtenu mon baccalauréat.<br />
 Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p> 
 
@@ -77,13 +77,13 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 
 <li><h2 id="centre">Mes centres d'intérêts</h2></li> 
 
-<p>Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous, voici mes divers centres d'intérêts.</p> 
+<p>Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujets que je n'ai pas encore abordés avec vous, voici mes divers centres d'intérêts.</p> 
 <ol>
   <h3><li>Le dessin</li></h3>
 <p>
   <img src="http://espritbd.fr/wp-content/uploads/2018/01/bien.jpg" alt="dessin" />
 
-<p>J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques.<br /> Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient à l'esprit où ce que l'on imagine à l'évocation d'un thème.<br />
+<p>J'ai toujours adoré dessiner, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques.<br /> Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient à l'esprit où ce que l'on imagine à l'évocation d'un thème.<br />
 Malheureusement j'ai toujours étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
 
 <h3><li>La mode</li></h3> 
@@ -106,20 +106,21 @@ Tout comme le dessin, elle me permet de m'évader pour entrer dans un autre univ
 
 <li><h2 id="informatique">L'informatique</h2></li>
 
-<p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le code?<br />
-  <img src="https://www.easy-forma.fr/wp-content/uploads/2018/07/emploi-dans-linformatique.png" alt="informatique" />
-</p>
+<p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le code?</p>
+
+<p>  <img src="https://www.easy-forma.fr/wp-content/uploads/2018/07/emploi-dans-linformatique.png" alt="informatique" /></p>
+
 <p>Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
 <p>Oui rappelez-vous, je vous ai évoqué les arts plastiques, le sport parmi mes matières préférées mais aussi les <strong>mathématiques</strong>. 
-J'adore les mathématiques. Pourquoi? Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. C'était une des rares matière où je me donnais à 100%.<br /> 
-Quand un professeur me donnait un problème à résoudre je devenais comme une souris face à un morceau de fromage. J'étais totalement obsédé par la résolution de ce problème, tant que je ne trouvais pas la solution. Je ne m'arrêtais pas de chercher.</p>
+J'adore les mathématiques. Pourquoi? <br />Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. C'était une des rares matière où je me donnais à 100%.<br /> 
+Quand un professeur me donnait un problème à résoudre je devenais comme une souris face à son morceau de fromage. J'étais totalement omnibulée par la résolution de ce problème, tant que je ne trouvais pas la solution. Je ne m'arrêtais pas de chercher.</p>
 <p>La curiosité de trouver la solution était tellement forte, que je n'avais même pas besoin de me forcer. 
 Et une fois le problème résolu, la satisfaction procurée par cette mini-victoire était unique.<br />
   
   <img src="https://media1.giphy.com/media/jDWXq9EHaF2uY/giphy.gif" alt="victoire" />
   
-J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la numéro 1 dans la matière, mes professeurs me faisait souvent part de petites éloges concernant ma logique dans la matière. (Je vous préviens je ne suis pas Einstein, nous en sommes encore loin!)</p>
+J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la première de la classe, mes professeurs de mathématiques me faisaient souvent part de petites éloges concernant ma logique dans la matière. (Je vous préviens je ne suis pas Einstein, nous en sommes encore loin!)</p>
 
 <p>Quand on creuse un peu plus, les mathématiques sont à la base de la programmation. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités dans les langages, ce sont des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes.</p>
 <p>Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été de nature très curiseuse sur l'univers du web, qui est juste géant avec des ressources inestimables. Personne ne connait toutes les ressources de ce réseau démesurable.<br />
