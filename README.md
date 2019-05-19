@@ -30,7 +30,7 @@ Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. J
 <img src="http://www.silkhom.com/wp-content/uploads/2016/05/giphy-4.gif" alt="image drôle" />
 </p> 
 
-<p>Dans cette présentation je ne vais pas seulement vous faire part de mes passions et de mon parcours, je n'hésiterais pas à approfondir ma présentation pour qu'a travers mon texte vous ressentiez quel type de personnage suis-je, quelles sont mes pensées, quelle est ma vison de la vie mais aussi et surtout mes ambitions professionnelles. Attention! J'espère que vous aimez la lecture.</p> 
+<p>Dans cette présentation je ne vais pas seulement vous faire part de mes passions et de mon parcours, je n'hésiterais pas à approfondir ma présentation pour qu'a travers mon texte vous ressentiez quel type de personnage suis-je, quelle est ma vison de la vie et surtout mes ambitions professionnelles. Attention! J'espère que vous aimez la lecture.</p> 
 
 <p>Alors, on y va?<br />
 C'est parti!</p> 
@@ -77,7 +77,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <p>Et enfin ma troisième passion:
 <img src="http://media.toucharger.com/web/toucharger/upload/image_domain/7/6/76429/76429.gif" alt="Champion du monde 2018" />
 </p>
-<p>Je vous résume ça dans l'ordre: Cristiano Ronaldo et Kylian Mbappé mes 2 joueurs de football préférés et ensuite l'équipe de France! Vous l'aurez compris je suis une grande fan de football, j'en suis éperduemment amoureuse tel Roméo de sa Juliette.<br /> Un sport que j'ai longtemps pratiqué intensivement en sport-études au lycée (qui étaient d'ailleurs mes plus belles et difficiles années à l'école). J'adore regarder le football, analyser, et le pratiquer surtout. Il ne s'agit pas juste d'un simple jeu c'est vraiment une passion qui prends une place énorme dans mon coeur et dans ma vie au quotidien.</p> 
+<p>Vous l'aurez compris je suis une grande fan de football, j'en suis éperduemment amoureuse tel Roméo de sa Juliette. Cristiano Ronaldo et Kylian Mbappé sont mes joueurs de football préférés. <br /> Le football est un sport que j'ai longtemps pratiqué intensivement en sport-études au lycée (qui étaient d'ailleurs mes plus belles et difficiles années à l'école). J'adore regarder le football, analyser, et le pratiquer surtout. Il ne s'agit pas d'un simple jeu, c'est bien plus que cela, c'est vraiment une passion qui prends une place énorme dans mon coeur et dans ma vie au quotidien.</p> 
 
 <p>Elargissons ma présentation à présent!</p>
 
@@ -97,16 +97,16 @@ Malheureusement j'ai toujours étais tellement aspirée par le football que je n
   <img src="https://conseilnationalducuir.org/sites/default/files/styles/photo_credit_contenu/public/medias-cnc/guide_des_metiers/styliste.jpg?itok=L1P64tHU" alt="mode" />
 
 <p>Mon rêve d'enfant était de devenir une grande styliste mondialement reconnue, ce rêve s'était initié dans mon esprit naturellement.<br /> 
-Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine.<br /> J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait devenir réel un jour qui sait.<br />
-Mais d'abord priorité sur ma carrière sportive!</p> 
+Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine.<br /> J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant.<br />
+Priorité sur ma carrière sportive!</p> 
 
 <h3><li>La musique</li></h3>
 
 <p>
   <img src="https://www.billboard.com/files/styles/768x433/public/media/bad-bunny-cardi-b-j-balvin-2018-billboard-1500.jpg" />
 
-<p>Cardi B (au milieu) est une de mes chanteuses favorites, je ne vais pas vous nommer tout mes artistes préférés, la liste serait beaucoup trop longue. Mais la musique est très importante dans ma vie, elle est semblable à un anti-stress sur moi.<br /> 
-Tout comme le dessin, elle me permet de m'évader pour entrer dans un autre univers. <br /> Elle m'anime et me fait vivre, elle m'accompagne partout. Lorsque je m'entraîne seule en salle elle est présente dans mes écouteurs pour m'encourager et me dire de continuer. Même pendant des périodes de doutes elle peut avoir un effet positif sur mon humeur.</p> 
+<p>Cardi B (au milieu) est une de mes artistes favorites, au dela de ses musiques je suis admirative du personnage. C'est une femme qui n'a pas peur d'assumer qui elle est. J'aime beaucoup les personnes de caractère qui s'assume fortement. Je ne vais pas vous nommer tout mes artistes préférés, la liste serait beaucoup trop longue. Mais la musique est très importante dans ma vie, elle est semblable à un anti-stress sur moi.<br /> 
+Tout comme le dessin, elle me permet de m'évader pour entrer dans un autre univers. <br />Même pendant des périodes de doutes elle peut avoir un effet positif sur mon humeur.</p> 
 
 <p>Pour conclure nous allons aborder le point le plus important de ma présentation. Je dirais même le point capital!</p>
 
