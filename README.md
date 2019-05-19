@@ -2,6 +2,10 @@
 <head>
   <meta charset="utf-8" />
   <style>
+    body
+    {
+      background-color: rgb(255, 129, 33);
+    }
     h1, h2
     {
       font-size: 1.6em;
