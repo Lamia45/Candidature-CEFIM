@@ -135,7 +135,7 @@ C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel
 
 <p><img src="https://media0.giphy.com/media/7K3p2z8Hh9QOI/giphy.gif" alt="chiots question" /></p> 
 
-<p>Pour conclure le but de ma présentation était de vous montrer mes centres intérêt mais aussi ma personne, car c'est en déterminant le profil d'une personne et sa manière de penser qu'on peut commencer a savoir ce dont à quoi elle va penser avant même qu'elle ne le pense. Je voulais vous montrer que le choix d'une formation de développeuse web n'était pas un choix prit au hasard, mais que j'éprouve une réelle curiosité et motivation envers le web et ce qui l'entoure. En espérant que cette "petite" présentation vous aura plu, je vous remercie d'avoir lu ma candidature avec attention et vous prie d'agréer mes sincères salutations.</p> 
+<p>Pour conclure le but de ma présentation était de vous montrer mes centres intérêt mais aussi ma personne, pour que vous permettre une compréhension de ma logique et surtout ce qui m'a amenée à choisir le métier de développeuse web. Je voulais vous montrer que le choix de cette formation n'avait pas été prit les yeux bandés, mais que j'éprouve une réelle curiosité et motivation envers le web et ce qui l'entoure. En espérant que cette "petite" présentation vous aura plu, je vous remercie d'avoir lu ma candidature avec attention et vous prie d'agréer mes sincères salutations.</p> 
  
  <p><em>"Cela semble toujours impossible, jusqu'à ce qu'on le fasse."</em><br />
 <mark>Nelson Mandela</mark></p>
