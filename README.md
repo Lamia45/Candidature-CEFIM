@@ -105,7 +105,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <p>
   <img src="http://espritbd.fr/wp-content/uploads/2018/01/bien.jpg" alt="dessin" />
 
-<p>J'ai toujours adoré dessiner, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques.<br /> Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient à l'esprit où ce que l'on imagine à l'évocation d'un thème.<br />
+<p>J'ai toujours adoré dessiner, l'art plastique était ma matière préférée avec le sport et les mathématiques.<br /> Ce que j'aime dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient à l'esprit où ce que l'on imagine à l'évocation d'un thème.<br />
 Malheureusement j'ai toujours étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
 
 <h3><li>La mode</li></h3> 
