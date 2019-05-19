@@ -1,6 +1,12 @@
 <html>
 <head>
   <meta charset="utf-8" />
+  <style>
+    h1, h2
+    {
+      color: blue;
+    }
+  </style>
   <title>Presentation Lamia</title>
  </head>
  
