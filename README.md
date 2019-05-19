@@ -9,6 +9,7 @@
     h1, h2
     {
       font-size: 1.6em;
+      text-align: center;
       color: rbg(87, 23, 99);
     }
     p
