@@ -135,7 +135,7 @@ Tout comme le dessin, elle me permet de m'évader pour entrer dans un autre univ
 <p>Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
 <p>Oui rappelez-vous, j'ai cité les <strong>mathématiques</strong> parmis mes matières préférées. 
-J'adore les mathématiques. Pourquoi? <br />Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. C'était une des rares matière où je me donnais à 100%.<br /> 
+J'adore les mathématiques. Pourquoi? <br />Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. Il s'agissait d'une des rares matières où j'étais totalement investis.<br /> 
 Quand un professeur me donnait un problème à résoudre je devenais comme une souris face à son morceau de fromage. J'étais totalement omnibulée par la résolution de ce problème, tant que je ne trouvais pas la solution. Je ne m'arrêtais pas de chercher.</p>
 <p>La curiosité de trouver la solution était tellement forte, que je n'avais même pas besoin de me forcer. 
 Et une fois le problème résolu, la satisfaction procurée par cette mini-victoire était unique.<br />
