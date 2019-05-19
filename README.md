@@ -6,6 +6,10 @@
     {
       font-size: 1.7em;
     }
+    h3
+    {
+      font-weight: bold;
+    }
     p
     {
       font-style: italic;
