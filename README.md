@@ -24,7 +24,7 @@ Je suis originaire de la ville d'Orléans et de nationalité franco-marocaine. J
 <img src="http://www.silkhom.com/wp-content/uploads/2016/05/giphy-4.gif" alt="image drôle" />
 </p> 
 
-<p>Dans cette présentation je ne vais pas seulement vous faire part de mes passions et de mon parcours, je n'hésiterais pas à approfondir ma présentation pour qu'a travers mon texte vous ressentiez quel type de personne je suis, quelles sont mes opinions, quelle est ma vison de la vie mais aussi et surtout mes ambitions professionnelle. Attention, j'espère que vous aimez la lecture!</p> 
+<p>Dans cette présentation je ne vais pas seulement vous faire part de mes passions et de mon parcours, je n'hésiterais pas à approfondir ma présentation pour qu'a travers mon texte vous ressentiez quel type de personnage suis-je, quelles sont mes pensées, quelle est ma vison de la vie mais aussi et surtout mes ambitions professionnelle. Attention, j'espère que vous aimez la lecture!</p> 
 
 <p>Alors, on y va?<br />
 C'est parti!</p> 
@@ -36,8 +36,8 @@ C'est parti!</p>
 <p>Moi et l'école? Une longue histoire d'amour forcée qui ne s'est pas finit dans la joie...<br /> 
   
   <p><img src="https://media.tenor.co/images/8916d9a3c52ae5652a74b5ce54207088/raw" alt="ennui" /></p>
-<p>En effet, je n'ai jamais été une grande fan de "l'école".  Je n'approuve pas les méthodes de l'école tout simplement car pour moi elle anihile toute forme de créativité chez les enfants et adolescents. Les cours m'ennuyait énormément, je trouvais le programme, lent, monotone et l'apprentissage de mes cours était comparable à une corvée dont on voulait à tout prix se débarasser.<br /> Ce n'est pas chose aisée pour moi de vous résumer cette rétissence envers l'école.<br /> Mais souvent quand j'étais en classe, j'avais cette folle impression de perdre mon temps. On me répétait souvent "Oui Lamia, fais des études supérieures comme ça tu auras un bon métier et un bon salaire!". En toute honnêté, avez-vous déjà vu un élève studieux devenir riche grâce à ses diplôme?<br /> Moi jamais personnellement. Des personnes intelligentes s'enrichir j'en ai déjà vu, mais grâce à un diplôme, non pas vraiment. Donc cet argument ne valait guère dans ma tête. Je ne veux pas piétiner le système scolaire car il m'a beaucoup appris, sans lui je ne pourrais peut-être pas écrire. Mais j'ai toujours eu cette sensation de ne pas être à ma place. Pourtant je ne me définis pas comme une mauvaise élève, au contraire même j'avais quelques facilités.<br /> 
-Donc pour clore ce sujet sur mon parcours scolaire. J'ai décrochée les études durant mon année de terminale dans la filière Sciences et Technologies du Management et de la Gestion (STMG), je n'ai donc ni passée ni obtenu mon baccalauréat.<br />
+<p>En effet, je n'ai jamais été une grande fan de "l'école".  Je n'approuve pas les méthodes de l'école tout simplement car pour moi elle anihile toute forme de créativité chez les enfants et adolescents. Les cours m'ennuyait énormément, je trouvais le programme, lent, monotone et l'apprentissage de mes cours était comparable à une corvée dont on voulait à tout prix se débarasser.<br /> Ce n'est pas chose aisée pour moi de vous résumer cette réticence envers l'école.<br /> Mais souvent quand j'étais en classe, j'avais cette folle impression de perdre mon temps. Mon entourage me répétait en boucle "Oui Lamia, fais des études supérieures comme ça tu auras un bon métier et un bon salaire!". En toute honnêté, avez-vous déjà vu un élève studieux devenir riche grâce à ses diplôme?<br /> Moi jamais personnellement. Des personnes intelligentes s'enrichir j'en ai déjà vu, mais grâce à un diplôme, non pas vraiment. Donc cet argument ne valait guère dans ma tête. Je ne veux pas piétiner le système scolaire car il m'a beaucoup apprit, je l'admet. Mais j'ai toujours eu cette sensation de ne pas être à ma place. Pourtant je ne me définis pas comme mauvaise élève, au contraire même, j'avais quelques facilités.<br /> 
+Donc pour clore le sujet sur mon parcours scolaire. J'ai décrochée les études durant mon année de terminale dans la filière Sciences et Technologies du Management et de la Gestion (STMG), je n'ai donc ni passée ni obtenu mon baccalauréat.<br />
 Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p> 
 
 
@@ -49,7 +49,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
   <ol>
   <li>Chargée de l'accueil et du service petit-déjeuner (hôtel IBIS)</li>
   <li>Chargée de l'accueil du service petit-déjeuner et du nettoyage (Auberge de Jeunesse)</li>
-  <li>Assemblage usine de cosmétique (L.T.E.)</li>
+  <li>Assemblage dans une usine de cosmétique (L.T.E.)</li>
   <li>Chargée de conseils clients et de mises en rayons (T.A.T.I.)</li>
   </ol>
 </p>
@@ -71,54 +71,58 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
 <p>Et enfin ma troisième passion:
 <img src="http://media.toucharger.com/web/toucharger/upload/image_domain/7/6/76429/76429.gif" alt="Champion du monde 2018" />
 </p>
-<p>Je vous résume ça dans l'ordre: Cristiano Ronaldo et Kylian Mbappé mes 2 joueurs de football préférés et ensuite l'équipe de France! Vous l'aurez compris je suis une grande fan de football, j'en suis éperduemment amoureuse telle une véritable passionnée, un sport que j'ai longtemps pratiqué intensivement en sport-études au lycée. J'adore regarder le football, analyser, et le pratiquer surtout. Il ne s'agit pas juste d'un simple jeu c'est vraiment une passion qui prends une place énorme dans mon coeur et dans ma vie au quotidien.</p> 
+<p>Je vous résume ça dans l'ordre: Cristiano Ronaldo et Kylian Mbappé mes 2 joueurs de football préférés et ensuite l'équipe de France! Vous l'aurez compris je suis une grande fan de football, j'en suis éperduemment amoureuse telle Roméo de sa Juliette.<br /> Un sport que j'ai longtemps pratiqué intensivement en sport-études au lycée (qui étaient d'ailleurs mes plus belles et difficiles années à l'école). J'adore regarder le football, analyser, et le pratiquer surtout. Il ne s'agit pas juste d'un simple jeu c'est vraiment une passion qui prends une place énorme dans mon coeur et dans ma vie au quotidien.</p> 
 
 <p>Elargissons ma présentation à présent!</p>
 
 <li><h2 id="centre">Mes centres d'intérêts</h2></li> 
 
-<p>Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous, voici mes centres d'intérêts.</p> 
+<p>Bon jusqu'ici hors mis que je ne suis pas fan de l'école mais du football, il y a beaucoup de sujet que je n'ai pas encore abordée avec vous, voici mes divers centres d'intérêts.</p> 
 <ol>
   <h3><li>Le dessin</li></h3>
 <p>
   <img src="http://espritbd.fr/wp-content/uploads/2018/01/bien.jpg" alt="dessin" />
 
-<p>J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques. Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème.<br />
+<p>J'ai toujours adoré dessiné, l'art plastique était ma matière préférée à l'école avec le sport et les mathématiques.<br /> Ce que j'aime beaucoup dans l'art c'est la liberté qui nous est offerte, en dessinant ce qui nous vient en tête où ce que l'on imagine à l'évocation d'un thème.<br />
 Malheureusement j'ai toujours étais tellement aspirée par le football que je n'ai jamais pris de cours de dessins. Peut-être que ça viendra un jour...</p> 
 
 <h3><li>La mode</li></h3> 
 <p>
   <img src="https://conseilnationalducuir.org/sites/default/files/styles/photo_credit_contenu/public/medias-cnc/guide_des_metiers/styliste.jpg?itok=L1P64tHU" alt="mode" />
 
-<p>Mon rêve d'enfant était de devenir une grande styliste reconnu, ce rêve s'était initié dans mon esprit naturellement.<br /> 
-Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine.<br /> J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait devenir réel un jour qui sait.</p> 
+<p>Mon rêve d'enfant était de devenir une grande styliste mondialement reconnue, ce rêve s'était initié dans mon esprit naturellement.<br /> 
+Aujourd'hui en analysant ce rêve je me rends compte qu'il se marie extrêmement bien avec ma passion du dessin et de la liberté, de rendre réel ce que l'on imagine.<br /> J'aime toujours ce domaine mais pour l'instant cela reste un rêve d'enfant, un rêve qui sommeil en moi et qui pourrait devenir réel un jour qui sait.<br />
+Mais d'abord priorité sur ma carrière sportive!</p> 
 
 <h3><li>La musique</li></h3>
 
 <p>
   <img src="https://www.billboard.com/files/styles/768x433/public/media/bad-bunny-cardi-b-j-balvin-2018-billboard-1500.jpg" />
 
-<p>Cardi B (au milieu) est une de mes chanteuses favorites, je ne vais pas vous nommer tout mes artistes préférés, la liste serait beaucoup trop longue. Mais la musique est très importante dans ma vie elle agit comme un anti-stress sur moi.<br /> 
-Il ne n'agit pas d'une passion pour moi, mais tout comme le dessin, cela me permet de m'évader pour entrer dans un autre univers. La musique est aussi comparable à l'essence d'une voiture chez moi.<br /> Elle m'anime et me fait vivre, elle m'accompagne partout. Lorsque je m'entraîne seule en salle elle est présente dans mes écouteurs pour m'encourager et me dire de continuer. Même pendant des périodes de doutes elle peut avoir un effet positif sur mon humeur.</p> 
+<p>Cardi B (au milieu) est une de mes chanteuses favorites, je ne vais pas vous nommer tout mes artistes préférés, la liste serait beaucoup trop longue. Mais la musique est très importante dans ma vie, elle est semblable à un anti-stress sur moi.<br /> 
+Tout comme le dessin, elle me permet de m'évader pour entrer dans un autre univers. <br /> Elle m'anime et me fait vivre, elle m'accompagne partout. Lorsque je m'entraîne seule en salle elle est présente dans mes écouteurs pour m'encourager et me dire de continuer. Même pendant des périodes de doutes elle peut avoir un effet positif sur mon humeur.</p> 
 
-<p>Pour conclure nous allons aborder le point le plus important de ma présentation.</p>
+<p>Pour conclure nous allons aborder le point le plus important de ma présentation. Je dirais même le point capital!</p>
 
 <li><h2 id="informatique">L'informatique</h2></li>
 
 <p>Bien-sûr! Pourquoi vouloir faire une formation de développeuse web or que je n'ai évoqué nul part le moindre intérêt pour l'informatique? Pourquoi y postuler or que je n'ai même pas évoquer ne serait-ce qu'un soupçon de passion pour le code?<br />
   <img src="https://www.easy-forma.fr/wp-content/uploads/2018/07/emploi-dans-linformatique.png" alt="informatique" />
 </p>
-<p>Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, mais en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
+<p>Et bien, pas si vite une fois de plus. En effet, je n'ai évoquer nul part le moindre intérêt pour l'informatique, en apparence seulement, en réalité j'en ai bien parlé. Mais sous une autre forme.</p> 
 
 <p>Oui rappelez-vous, je vous ai évoqué les arts plastiques, le sport parmi mes matières préférées mais aussi les <strong>mathématiques</strong>. 
 J'adore les mathématiques. Pourquoi? Ce que j'ai toujours aimé dans les maths c'est la résolution de problèmes. C'était une des rares matière où je me donnais à 100%.<br /> 
 Quand un professeur me donnait un problème à résoudre je devenais comme une souris face à un morceau de fromage. J'étais totalement obsédé par la résolution de ce problème, tant que je ne trouvais pas la solution. Je ne m'arrêtais pas de chercher.</p>
 <p>La curiosité de trouver la solution était tellement forte, que je n'avais même pas besoin de me forcer. 
 Et une fois le problème résolu, la satisfaction procurée par cette mini-victoire était unique.<br />
-J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la numéro 1 dans la matière, mes professeurs me faisait souvent part de petites éloges concernant ma logique dans la matière. (Je vous préviens je ne suis pas Einstein loin de la!)</p>
+  
+  <img src="https://media1.giphy.com/media/jDWXq9EHaF2uY/giphy.gif" alt="victoire" />
+  
+J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la numéro 1 dans la matière, mes professeurs me faisait souvent part de petites éloges concernant ma logique dans la matière. (Je vous préviens je ne suis pas Einstein, nous sommes encore loin!)</p>
 
-<p>Quand on creuse un peu plus, les mathématiques sont à la base du web. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités sur le web, ce sont des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes.</p>
-<p>Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été très curiseuse sur l'univers du web, qui est juste géant avec des ressources inestimables. Personne ne connait toutes les ressources de ce réseau démesurable.<br />
+<p>Quand on creuse un peu plus, les mathématiques sont à la base de la programmation. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités dans les langages, ce sont des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes.</p>
+<p>Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été de nature très curiseuse sur l'univers du web, qui est juste géant avec des ressources inestimables. Personne ne connait toutes les ressources de ce réseau démesurable.<br />
 J'ai commencé à m'intéresser très sérieusement à ce métier, lorsque j'étais au lycée en classe de première. Nous devions cherché un stage d'observation en entreprise. Mais notre professeur nous avait prévenu (professeur que je remercie pour tout d'ailleurs), il ne voulait pas entendre parlé de stage dans la sandwicherie du coin pour manger à volonté, il voulait un stage en lien avec un métier qui nous intéressé réellement.<br /> 
 C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel. Je commençames donc à chercher des métiers, souvent en lien avec les mathématiques. Puis j'étais tombé sur la fiche "Développeur d'applications". J'avais trouvé cette fiche fascinante, c'était très rare qu'un métier m'intrigue autant. C'était décidé, je voulais faire mon stage auprès d'un développeur. Mais je ne connaissais personne, je n'avais aucun réseau. J'en ai donc fais part à mon très cher professeur, qui était très heureux que je m'intéresse à ce métier, car surprise... avant d'être professeur, il était développeur web.</p> 
 
