@@ -76,7 +76,7 @@ Le seul diplôme en ma possession actuellement est mon brevet des collèges.</p>
   </ol>
 </p>
 
-<p>Maintenant passons à ma partie préférée, enfin!</p>
+<p>Passons à ma partie préférée, enfin!</p>
 
 <li><h2 id="passion">Mes passions</h2></li> 
 
@@ -121,8 +121,8 @@ Priorité sur ma carrière sportive!</p>
 <p>
   <img src="https://www.billboard.com/files/styles/768x433/public/media/bad-bunny-cardi-b-j-balvin-2018-billboard-1500.jpg" />
 
-<p>Cardi B (au milieu) est une de mes artistes favorites, au dela de ses musiques je suis admirative du personnage. C'est une femme qui n'a pas peur d'assumer qui elle est. J'aime beaucoup les personnes de caractère qui s'assume fortement. Je ne vais pas vous nommer tout mes artistes préférés, la liste serait beaucoup trop longue. Mais la musique est très importante dans ma vie, elle est semblable à un anti-stress sur moi.<br /> 
-Tout comme le dessin, elle me permet de m'évader pour entrer dans un autre univers. <br />Même pendant des périodes de doutes elle peut avoir un effet positif sur mon humeur.</p> 
+<p>Cardi B (au milieu) est une de mes artistes favorites, au dela de ses musiques je suis admirative du personnage. C'est une femme qui n'a pas peur d'assumer qui elle est.<br /> J'aime beaucoup les personnes de caractère qui s'assument telles qu'elles le sont. Je ne vais pas vous nommer tout mes artistes préférés, la liste serait beaucoup trop longue. Mais la musique est très importante dans ma vie, elle est semblable à un anti-stress sur moi.<br /> 
+Tout comme le dessin, elle me permet de m'évader pour entrer dans un autre univers. Même pendant des périodes de doutes elle peut avoir un effet positif sur mon humeur.</p> 
 
 <p>Pour conclure nous allons aborder le point le plus important de ma présentation. Je dirais même le point capital!</p>
 
@@ -144,10 +144,10 @@ Et une fois le problème résolu, la satisfaction procurée par cette mini-victo
 
 <p>Quand on creuse un peu plus, les mathématiques sont à la base de la programmation. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités dans les langages, ce sont des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes.</p>
 <p>Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été de nature très curiseuse sur l'univers du web, qui est juste géant avec des ressources inestimables.<br />
-J'ai commencé à m'intéresser très sérieusement à ce métier, lorsque j'étais au lycée en classe de première. Nous devions cherché un stage d'observation en entreprise.<br /> 
+J'ai commencé à m'intéresser très sérieusement à ce métier, lorsque j'étais en classe de première. Nous devions cherché un stage d'observation en entreprise.<br /> 
 C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel. Je commençames donc à chercher des métiers, souvent en lien avec les mathématiques. Puis j'étais tombé sur la fiche "Développeur d'applications". J'avais trouvé cette fiche fascinante, c'était très rare qu'un métier m'intrigue autant. C'était décidé, je voulais faire mon stage auprès d'un développeur.</p> 
 
-<p>J'ai donc passé ce stage d'observation d'une semaine dans les pattes d'un développeur web, à le regarder et à lui poser tout un tas de questions.</p> 
+<p>J'ai donc passé ce stage d'une semaine dans les pattes d'un développeur web, à le regarder travailler et à lui poser tout un tas de questions.</p> 
 
 <p><img src="https://media0.giphy.com/media/7K3p2z8Hh9QOI/giphy.gif" alt="chiots question" /></p> 
 
