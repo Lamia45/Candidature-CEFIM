@@ -153,7 +153,7 @@ C'était l'occasion de s'interroger sérieusement sur notre avenir professionnel
 
 <p>Pour courronner le tout, il y a quelques mois, je me suis jeté à l'eau. J'ai démarré le cours d'OpenClassrooms en Javascript, et j'ai adoré! J'ai alors recherché un établissements pour effectuer une formation. C'est la CEFIM qui a le plus retenue mon attention. J'ai aussi adoré faire cette présentation en HTML5 et CSS3 car je ne connaissais ces langages que de nom. Je me suis beaucoup amusé durant ce travail également. En espérant que cette "petite" présentation vous aura plu, je vous remercie d'avoir lu ma candidature avec attention et vous prie d'agréer mes sincères salutations.</p> 
 
-<p>Si vous souhaitez coller une image à ma présentation, ou entrer dans mon univers vous pouvez consulter mon profil Instagram <a href="https://picgra.com/user/lamia_zj/4236876860">Monprofil</a>
+<p>Si vous souhaitez coller une image à ma présentation, ou entrer dans mon univers vous pouvez consulter mon profil Instagram <a href="https://picgra.com/user/lamia_zj/4236876860">Monprofil</a></p>
  
  <p><em>"Cela semble toujours impossible, jusqu'à ce qu'on le fasse."</em><br />
 <mark>Nelson Mandela</mark></p>
