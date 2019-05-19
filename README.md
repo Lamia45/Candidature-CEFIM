@@ -124,9 +124,7 @@ Quand un professeur me donnait un problème à résoudre je devenais comme une s
 <p>La curiosité de trouver la solution était tellement forte, que je n'avais même pas besoin de me forcer. 
 Et une fois le problème résolu, la satisfaction procurée par cette mini-victoire était unique.<br />
   
-  <img src="https://media1.giphy.com/media/jDWXq9EHaF2uY/giphy.gif" alt="victoire" />
-  
-J'ai toujours eu des petites facilités en mathématiques, bien que je n'étais pas toujours la première de la classe, mes professeurs de mathématiques me faisaient souvent part de petites éloges concernant ma logique dans la matière. (Je vous préviens je ne suis pas Einstein, nous en sommes encore loin!)</p>
+  <img src="https://media1.giphy.com/media/jDWXq9EHaF2uY/giphy.gif" alt="victoire" /></p>
 
 <p>Quand on creuse un peu plus, les mathématiques sont à la base de la programmation. Les langages de programmation sont remplit d'algorithmes mathématiques. Lorsqu'on cherche à créer de nouvelles fonctionnalités dans les langages, ce sont des mathématiques! Nous créons un problème que nous devons résoudre par des algorithmes.</p>
 <p>Pour finir, je n'ai pas juste choisis le métier de développeuse web simplement parce-qu'il y de la résolution de problèmes. Mais j'ai toujours été de nature très curiseuse sur l'univers du web, qui est juste géant avec des ressources inestimables. Personne ne connait toutes les ressources de ce réseau démesurable.<br />
