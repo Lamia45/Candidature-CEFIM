@@ -4,7 +4,7 @@
   <style>
     h1, h2
     {
-      font-size: 2em;
+      font-size: 1.7em;
     }
     p
     {
