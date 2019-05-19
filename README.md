@@ -29,7 +29,7 @@
   <h1>Bienvenue sur ma page de présentation!</h1> 
   <h2><strong>Menu principal:</strong></h2>
    
-  <p class="menu"<a href="#intro">Introduction</a><br />
+  <p class="menu"><a href="#intro">Introduction</a><br />
   <a href="#parcours">Mon parcours scolaire</a><br />
   <a href="#experience">Mes expériences professionnelles</a><br />
   <a href="#passion">Mes passions</a><br />
