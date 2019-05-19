@@ -15,6 +15,7 @@
     p
     {
       font-style: italic;
+      text-align: justify;
     }
     .menu
     {
